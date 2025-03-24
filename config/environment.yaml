@@ -1,0 +1,9 @@
+user:
+  admin:
+    username: zgadmin
+    password: Zg8760
+  zhangsan:
+    username: 13012345678
+    password: Zs123456
+
+url: https://yunwei.zgyun.link/#

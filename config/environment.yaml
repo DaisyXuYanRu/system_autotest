@@ -1,9 +1,9 @@
 user:
   admin:
-    username: zgadmin
-    password: Zg8760
+    username: username
+    password: password
   zhangsan:
-    username: 13012345678
-    password: Zs123456
+    username: username
+    password: password
 
-url: https://yunwei.zgyun.link/#
+url: https://baidu.com/
